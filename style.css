@@ -17,3 +17,7 @@
     margin: 0.15rem;
     padding: 0.15rem;
 }
+
+.brdrlgt {
+    border-bottom: 1px solid #ddd;
+}
