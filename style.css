@@ -1,0 +1,19 @@
+.container {
+    max-width: 750px;
+}
+
+.card-title {
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid #aaa;
+}
+
+.card {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.card-body {
+    margin: 0.15rem;
+    padding: 0.15rem;
+}
